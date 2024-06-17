@@ -1,4 +1,6 @@
-# How to create a great local Python development environment with Docker (by https://github.com/patrickloeber/python-docker-tutorial)
+# How to create a great local Python development environment with Docker 
+
+All of this stuff was created by Patrick Loeber (https://github.com/patrickloeber/python-docker-tutorial)
 
 Work in progress
 
